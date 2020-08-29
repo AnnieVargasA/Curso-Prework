@@ -1,0 +1,5 @@
+cat archivo.txt => muestra el contenido del archivo
+more archivo.txt => muestra partes del archivo 
+tail archivo.txt => muestra las últimas 10 líneas del archivo
+cat archivo.txt > copy_archivo.txt => realiza una copia del archivo
+open archivo.ico => abre los archivos en el programa predeterminado

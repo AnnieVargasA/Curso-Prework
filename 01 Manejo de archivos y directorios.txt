@@ -1,0 +1,15 @@
+ls = Muestra archivos
+ls -a => Muestra archivos incluyendo los archivos ocultos
+ls -l => Enlista los archivos con detalles
+ls -la =>fusiona los dos anteriores
+ls -t => organiza la lista por fecha de modificación
+pwd => path
+mkdir => crea carpeta
+cd => entra a carpeta
+clear => limpia pantalla
+history => muestra el historial de la consola
+touch archivo.txt => crear archivo
+nano => abre el editor
+mv archivo.txt path => mueve el archivo al nuevo path
+rm archivo.txt => eliminar archivo
+rm -rf carpeta => se elimina carpeta
